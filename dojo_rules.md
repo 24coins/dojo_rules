@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * no coffee in the Dojo
 * byo tea 
+* bring your Sensei's tea, too
